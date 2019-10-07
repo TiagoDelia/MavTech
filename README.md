@@ -1,2 +1,2 @@
 # MavTech
-Projeto open source para desenvolver um sistema de automação jurídica
+Projeto open source para desenvolvimento de um sistema de automação jurídica
